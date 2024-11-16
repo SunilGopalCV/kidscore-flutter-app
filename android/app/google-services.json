@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785900385645",
+    "project_id": "kidscore-healthykid",
+    "storage_bucket": "kidscore-healthykid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785900385645:android:b2900fffc69edb561f1664",
+        "android_client_info": {
+          "package_name": "in.healthykid.kidscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBffPvT6MYBMaSVRapLWu-T8pbusZaypTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
